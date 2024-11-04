@@ -5,7 +5,7 @@
 	"solution": "https://github.com/4GeeksAcademy/time-series-project-tutorial/blob/main/solution.ipynb",
 	"status": "published",
 	"translations": ["us"],
-	"technologies": ["data-science", "machine-learning"],
+	"technologies": ["python", "pandas", "numpy", "sklearn", "nltk", "matplotlib", "time-series-analysis", "data-science", "machine-learning"],
 	"difficulty": "beginner",
 	"syntax": "python",
 	"duration" : 2,
