@@ -13,4 +13,5 @@
     "projectType": "project",
 	"autoPlay": "false",
 	"description" : "This project focuses on using time series analysis techniques for water detection."
+	"gitpod": true
 }
