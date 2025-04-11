@@ -1,6 +1,9 @@
 {
 	"slug" : "time-series-project-tutorial",
-	"title" : "Time Series Project Tutorial",
+	"title" : {
+		"us": "Time Series Project Tutorial",
+		"es": "Tutorial del proyecto de series temporales"
+	},
 	"preview": "https://github.com/4GeeksAcademy/time-series-project-tutorial/blob/main/preview.png?raw=true",
 	"solution": "https://github.com/4GeeksAcademy/time-series-project-tutorial/blob/main/solution.ipynb",
 	"status": "published",
@@ -11,7 +14,13 @@
 	"duration" : 2,
 	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     "projectType": "project",
-	"autoPlay": "false",
-	"description" : "This project focuses on using time series analysis techniques for water detection."
-	"gitpod": true
+	"autoPlay": false,
+	"description" : {
+		"us": "A step-by-step time series project to predict water availability in different areas using real Kaggle data. Analyze the dataset, explore modeling techniques, and build predictive models while learning from past competition solutions and testing your skills.",
+		"es": "Un proyecto paso a paso de series temporales para predecir la disponibilidad de agua en diferentes zonas usando datos reales de Kaggle. Analiza el conjunto de datos, explora técnicas de modelado y construye modelos predictivos mientras aprendes de soluciones pasadas y pones a prueba tus habilidades."
+	},
+	"gitpod": true,
+	"telemetry": {
+	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=442"
+	}
 }
