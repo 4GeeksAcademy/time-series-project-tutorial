@@ -5,7 +5,7 @@
 - Understand a new dataset.
 - Analyze the time series and study its characteristics.
 - Train a model to predict the amount of water in different areas.
-
+  
 ## 🌱 How to start this project
 
 Follow the instructions below:

@@ -5,7 +5,7 @@
 - Comprender un dataset nuevo.
 - Analizar la serie temporal y estudiar sus características.
 - Entrenar un modelo para predecir la cantidad de agua en distintas zonas.
-
+  
 ## 🌱 Cómo iniciar este proyecto
 
 Sigue las siguientes instrucciones:
